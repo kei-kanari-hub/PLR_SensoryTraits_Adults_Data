@@ -1,12 +1,12 @@
 # README – PLR_SensoryTraits_Adults_Data
 
-## Dataset Version  
+## Dataset Version v1.0.0
 Created on: 2025-04-09
 
 ---
 
 ## Title  
-**Do Dynamic Pupillary Light Reflex Parameters Reflect and Predict Sensory Traits?**  
+Do Dynamic Pupillary Light Reflex Parameters Reflect and Predict Sensory Traits?  
 Multivariate and Machine Learning Evidence in Adults
 
 ---
